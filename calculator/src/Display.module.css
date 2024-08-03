@@ -1,0 +1,16 @@
+.display{
+    margin: 10px;
+    width: 170px;
+    font-size: 25px;  
+  }
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.button{
+    width: 30px;
+    height: 30px;
+
+}
